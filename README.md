@@ -1,9 +1,9 @@
 # httpServer
 JSONを返すサーバの実装
 
-# Command
+## Command
 node server.js
 
-# 実行結果
+## Output
 {"name":"konpei","kg":"haisys","hobby":"baseball"}
 
