@@ -5,5 +5,6 @@ JSONを返すサーバの実装
 node server.js
 
 ## Output
+```
 {"name":"konpei","kg":"haisys","hobby":"baseball"}
-
+```
