@@ -7,7 +7,7 @@ node server.js
 ```
 
 ## Output
-localhost:3000:
+*localhost:3000:*
 ```
 {"name":"konpei","kg":"haisys","hobby":"baseball"}
 ```
