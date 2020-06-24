@@ -2,7 +2,9 @@
 JSONを返すサーバの実装
 
 ## Command
+```
 node server.js
+```
 
 ## Output
 ```
